@@ -1,1 +1,2 @@
 # Gene-Expression-Based-Cancer-Classification
+This project analyzes gene expression data using machine learning techniques to identify patterns and relationships within biological datasets. The system performs data preprocessing, model training, and evaluation to classify samples and gain insights from gene expression profiles. The project demonstrates the application of data science and machine learning methods in bioinformatics.
